@@ -1,0 +1,17 @@
+ h3{
+    background-color: chartreuse;
+ }
+ li{
+    font-size: medium;
+    font-weight: 100px;
+    color: rgb(250, 0, 21);
+    background-color: rgb(192, 191, 191);
+    font-size: larger;
+ }
+ h4{
+    position: static;
+    border-color: brown;
+    border: 5px;
+    border-width: 1px;
+    border-color: cadetblue;
+ }
